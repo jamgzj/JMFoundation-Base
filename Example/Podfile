@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'JMFoundation-Base_Example' do
+  pod 'JMFoundation-Base', :path => '../'
+
+  target 'JMFoundation-Base_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
