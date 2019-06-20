@@ -8,10 +8,10 @@
 
 #import <Foundation/Foundation.h>
 
-@interface NSArray (JMBase)
+@interface NSArray (JMPrevent)
 
 @end
 
-@interface NSMutableArray (JMBase)
+@interface NSMutableArray (JMPrevent)
 
 @end

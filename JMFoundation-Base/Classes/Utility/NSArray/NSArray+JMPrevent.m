@@ -6,10 +6,10 @@
 //  Copyright © 2019 zhengxingxia. All rights reserved.
 //
 
-#import "NSArray+JMBase.h"
+#import "NSArray+JMPrevent.h"
 #import "NSObject+JMSwizzle.h"
 
-@implementation NSArray (JMBase)
+@implementation NSArray (JMPrevent)
 
 + (void)load
 {
@@ -47,7 +47,7 @@
 
 @end
 
-@implementation NSMutableArray (JMBase)
+@implementation NSMutableArray (JMPrevent)
 
 + (void)load
 {
