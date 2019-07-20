@@ -2,7 +2,7 @@
 //  DMWeakRefArray.h
 //  dmlib
 //
-//  Created by Terry Tan on 8/12/16.
+//  Created by jamgzj on 8/12/16.
 //  Copyright © 2016 Shanghai DataSeed Information Technology Co.,Ltd. All rights reserved.
 //
 

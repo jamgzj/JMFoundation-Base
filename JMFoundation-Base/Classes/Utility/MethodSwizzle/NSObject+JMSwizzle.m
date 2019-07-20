@@ -1,9 +1,8 @@
 //
-//  NSObject+LBASwizzle.m
-//  LBAnalyticsKit
+//  NSObject+JMSwizzle.m
 //
-//  Created by Terry Tan on 5/9/16.
-//  Copyright © 2016 caijiajia. All rights reserved.
+//  Created by jamgzj on 5/9/16.
+//  Copyright © 2016 private. All rights reserved.
 //
 
 #import "NSObject+JMSwizzle.h"

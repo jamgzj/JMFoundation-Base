@@ -1,8 +1,8 @@
 //
-//  NSNumber+LBKBase.h
-//  LBKFoundation
+//  NSNumber+JMBase.h
+//  JMFoundation
 //
-//  Created by Terry Tan on 07/08/2017.
+//  Created by jamgzj on 07/08/2017.
 //  Copyright © 2017 Shanghai DataSeed Information Technology Co.,Ltd. All rights reserved.
 //
 

@@ -38,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		06C61DF0C05C4731F658CFE4 /* Pods-JMFoundation-Base_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Example.release.xcconfig"; path = "Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example.release.xcconfig"; sourceTree = "<group>"; };
+		34DB0083D90865A9F8526983 /* Pods-JMFoundation-Base_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example.release.xcconfig"; sourceTree = "<group>"; };
 		4E0989F28DB429C450FD79EC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		5301F68AA8B61B419660FFF7 /* Pods_JMFoundation_Base_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JMFoundation_Base_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		56F2762ACF5BA9CD05A2560B /* Pods-JMFoundation-Base_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Example.debug.xcconfig"; path = "Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -62,11 +63,14 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		6F9D5098E61B92E99BD160B2 /* Pods-JMFoundation-Base_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Tests.debug.xcconfig"; path = "Target Support Files/Pods-JMFoundation-Base_Tests/Pods-JMFoundation-Base_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		80D7935A2F00CB0FE0EBF5CE /* Pods-JMFoundation-Base_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B81B4ABBECF7D8767F55407 /* Pods-JMFoundation-Base_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Tests.release.xcconfig"; path = "Target Support Files/Pods-JMFoundation-Base_Tests/Pods-JMFoundation-Base_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		928A1D6ED6B596D3BF7D63B1 /* JMFoundation-Base.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "JMFoundation-Base.podspec"; path = "../JMFoundation-Base.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		945A7EE19A3CE0A338855F9E /* Pods-JMFoundation-Base_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JMFoundation-Base_Tests/Pods-JMFoundation-Base_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A914F1C351B64F75EB24FF88 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C999F99A3F6C816A329EEB9C /* Pods_JMFoundation_Base_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JMFoundation_Base_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CF07EB52E25AA05D294B5D3E /* Pods-JMFoundation-Base_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JMFoundation-Base_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JMFoundation-Base_Tests/Pods-JMFoundation-Base_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +196,10 @@
 				06C61DF0C05C4731F658CFE4 /* Pods-JMFoundation-Base_Example.release.xcconfig */,
 				6F9D5098E61B92E99BD160B2 /* Pods-JMFoundation-Base_Tests.debug.xcconfig */,
 				8B81B4ABBECF7D8767F55407 /* Pods-JMFoundation-Base_Tests.release.xcconfig */,
+				80D7935A2F00CB0FE0EBF5CE /* Pods-JMFoundation-Base_Example.debug.xcconfig */,
+				34DB0083D90865A9F8526983 /* Pods-JMFoundation-Base_Example.release.xcconfig */,
+				945A7EE19A3CE0A338855F9E /* Pods-JMFoundation-Base_Tests.debug.xcconfig */,
+				CF07EB52E25AA05D294B5D3E /* Pods-JMFoundation-Base_Tests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -300,15 +308,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-JMFoundation-Base_Example-checkManifestLockResult.txt",
 			);
@@ -323,7 +327,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example-frameworks.sh",
+				"${SRCROOT}/Pods/Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
 				"${BUILT_PRODUCTS_DIR}/JMFoundation-Base/JMFoundation_Base.framework",
 				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
@@ -336,7 +340,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JMFoundation-Base_Example/Pods-JMFoundation-Base_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		E498D1092118EEBEED9B80A5 /* [CP] Check Pods Manifest.lock */ = {
@@ -344,15 +348,11 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
 				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
 				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-JMFoundation-Base_Tests-checkManifestLockResult.txt",
 			);
@@ -495,7 +495,7 @@
 		};
 		6003F5C0195388D20070C39A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 56F2762ACF5BA9CD05A2560B /* Pods-JMFoundation-Base_Example.debug.xcconfig */;
+			baseConfigurationReference = 80D7935A2F00CB0FE0EBF5CE /* Pods-JMFoundation-Base_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -510,7 +510,7 @@
 		};
 		6003F5C1195388D20070C39A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 06C61DF0C05C4731F658CFE4 /* Pods-JMFoundation-Base_Example.release.xcconfig */;
+			baseConfigurationReference = 34DB0083D90865A9F8526983 /* Pods-JMFoundation-Base_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -525,7 +525,7 @@
 		};
 		6003F5C3195388D20070C39A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6F9D5098E61B92E99BD160B2 /* Pods-JMFoundation-Base_Tests.debug.xcconfig */;
+			baseConfigurationReference = 945A7EE19A3CE0A338855F9E /* Pods-JMFoundation-Base_Tests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (
@@ -549,7 +549,7 @@
 		};
 		6003F5C4195388D20070C39A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8B81B4ABBECF7D8767F55407 /* Pods-JMFoundation-Base_Tests.release.xcconfig */;
+			baseConfigurationReference = CF07EB52E25AA05D294B5D3E /* Pods-JMFoundation-Base_Tests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				FRAMEWORK_SEARCH_PATHS = (
